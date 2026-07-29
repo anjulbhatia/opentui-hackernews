@@ -1,10 +1,13 @@
 {
   "name": "premise",
-  "module": "src/index.tsx",
+  "module": "app/index.tsx",
   "type": "module",
   "private": true,
   "scripts": {
-    "dev": "bun run --watch src/index.tsx"
+    "dev": "bun run start.ts",
+    "start": "bun run start.ts",
+    "server": "bun run --watch api/index.ts",
+    "client": "bun run --watch app/index.tsx"
   },
   "devDependencies": {
     "@types/bun": "latest"
@@ -15,6 +18,7 @@
   "dependencies": {
     "@opentui/core": "^0.4.5",
     "@opentui/react": "^0.4.5",
+    "hono": "^4.12.32",
     "react": "^19.2.6"
   }
 }

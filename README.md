@@ -1,9 +1,9 @@
 # OpenTUI-HackerNews
 
-![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![OpenTUI](https://img.shields.io/badge/OpenTUI-FF6600?logo=react&logoColor=fff)
-![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff)
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![OpenTUI](https://img.shields.io/badge/OpenTUI-F0F0F0?logoColor=111&style=flat)
+![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff&style=flat)
 
 ![screenshot](./screenshot.png)
 

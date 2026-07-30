@@ -1,4 +1,6 @@
-# OpenTUI-HackerNews
+<div align="center">
+<h1>OpenTUI-HackerNews</h1>
+
 
 ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
@@ -7,7 +9,8 @@
 
 ![screenshot](./screenshot.png)
 
-Hacker News reader in your terminal. Browse top, new, and best stories with threaded comments — no browser needed.
+<b>Hacker News reader in your terminal. Browse top, new, and best stories with threaded comments — no browser needed.</b>
+</div>
 
 ## Install & Run
 

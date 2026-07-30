@@ -1,15 +1,21 @@
-# react
+# OpenTUI-HackerNews
 
-To install dependencies:
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![OpenTUI](https://img.shields.io/badge/OpenTUI-FF6600?logo=react&logoColor=fff)
+![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff)
+
+![screenshot](./screenshot.png)
+
+Hacker News reader in your terminal. Browse top, new, and best stories with threaded comments — no browser needed.
+
+## Install & Run
 
 ```bash
+git clone https://www.github.com/anjulbhatia/OpenTUI-HackerNews
+cd OpenTUI-HackerNews
 bun install
+bun run dev
 ```
 
-To run:
-
-```bash
-bun dev
-```
-
-This project was created using `bun create tui`. [create-tui](https://git.new/create-tui) is the easiest way to get started with OpenTUI.
+**Keys**: `↑↓` navigate · `Enter` comments · `O` open article · `1/2/3` switch feed · `ESC` back · `Q` quit

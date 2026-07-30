@@ -1,5 +1,5 @@
 {
-  "name": "premise",
+  "name": "OpenTUI-HackerNews",
   "module": "app/index.tsx",
   "type": "module",
   "private": true,
